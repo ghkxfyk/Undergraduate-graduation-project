@@ -46,11 +46,11 @@ Generate the predicted results into a file in the required format for the Kaggle
 ##代码运行说明（Code operation instructions）
 
 该项目中的代码“主程序.py”是本地运行，如需拷贝使用，除了对应安装库以外还需要在Kaggle项目Quora Question Pairs（https://www.kaggle.com/competitions/quora-question-pairs/overview）中下载训练集数据，并对应修改代码中的读取路径。
-当然也可以以移步到我在Kaggle网站的笔记。
+当然也可以以移步到我在Kaggle网站的笔记（https://www.kaggle.com/code/gaojianyu/quora-question-pairs/notebook），那里可以直接运行。
 
 The code "main program. py" in this project runs locally. If you need to copy and use it, in addition to the corresponding installation library, you also need to run it in the Kaggle project Quora Question Pairs（ https://www.kaggle.com/competitions/quora-question-pairs/overview ）Download the training set data and modify the read path in the code accordingly.
 
-Of course, you can also move to my notes on the Kaggle website（https://www.kaggle.com/code/gaojianyu/quora-question-pairs），where the code can be run directly.
+Of course, you can also move to my notes on the Kaggle website（[https://www.kaggle.com/code/gaojianyu/quora-question-pairs](https://www.kaggle.com/code/gaojianyu/quora-question-pairs)），where the code can be run directly.
 
 
 
